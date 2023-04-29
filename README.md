@@ -17,6 +17,6 @@
 Skills: Machine Learning | Deep Learning | Data Structure | Algorithms | Probability and Random Variables | Applied Statistics | Natural Language Processing | Big Data | Linux
 
 - 📫 Reach me at: Bhargava07491@gmail.com 
-- 
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ABK9999)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abk9999-bhargav/)
