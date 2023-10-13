@@ -1,7 +1,9 @@
 ### Hi there, Bhargav Kumar A
 #### About :
 
-🔭 I am currently furthering my education in Data Science by pursuing a 12-month Executive Post Graduation in Data Science from IIIT Bangalore. This degree covers advanced topics in machine learning, deep learning, and natural language processing, and I hope to acquire the skills necessary to become a proficient data scientist.
+🔭 Highly motivated and results-driven Data Scientist with a strong background in data analysis and machine learning. Experienced in developing machine learning and deep learning models. Skilled in Python design patterns. A quick learner with a passion for solving complex problems and delivering actionable insights
+
+🔭 I am a recent Executive Post Graduate in Data Science from IIIT Bangalore. This degree covers advanced topics in machine learning, deep learning, and natural language processing, and I hope to acquire the skills necessary to become a proficient data scientist.
 
 🔭 I have completed my graduation in Statistics.
 
