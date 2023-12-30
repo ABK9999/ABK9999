@@ -11,14 +11,12 @@
     
 💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 
-⚡ Taught Data Structure Algorithms and Data Science.
-
-👯 Worked as an Analyst having one year of experience with Gati Group.
+👯 Worked as an Analyst having 1+ years of experience with Gati Group.
 
 
-Skills: Machine Learning | Deep Learning | Data Structure | Algorithms | Probability and Random Variables | Applied Statistics | Natural Language Processing | Big Data | Linux
+Skills: Machine Learning | Deep Learning | Applied Statistics | Natural Language Processing | Gen AI | LLM | Linux
 
-- 📫 Reach me at: Bhargava07491@gmail.com 
+- 📫 Reach me at: bhargava07491@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ABK9999)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abk9999-bhargav/)
