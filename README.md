@@ -1,20 +1,18 @@
 ### Hi there, Bhargav Kumar A
 #### About :
 
-🔭 Highly motivated and results-driven Data Scientist with a strong background in data analysis and machine learning. Experienced in developing machine learning and deep learning models. Skilled in Python design patterns. A quick learner with a passion for solving complex problems and delivering actionable insights
-
-🔭 I am a recent Executive Post Graduate in Data Science from IIIT Bangalore. This degree covers advanced topics in machine learning, deep learning, and natural language processing, and I hope to acquire the skills necessary to become a proficient data scientist.
+🔭 Data Scientist with a strong background in data analysis and machine learning. Experienced in developing machine learning and deep learning models. Skilled in Python. A quick learner with a passion for solving complex problems and delivering actionable insights
 
 🔭 I have completed my graduation in Statistics.
 
-🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing. 
+🔭 I am passionate about Artificial Intelligence. 
     
 💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 
-👯 Worked as an Analyst having 1+ years of experience with Gati Group.
+👯 Worked as an Data Analyst having 1+ years of experience with Gati Group.
 
 
-Skills: Machine Learning | Deep Learning | Applied Statistics | Natural Language Processing | Gen AI | LLM | Linux
+Skills: Machine Learning | Deep Learning | Natural Language Processing | Gen AI | LLM 
 
 - 📫 Reach me at: bhargava07491@gmail.com 
 
